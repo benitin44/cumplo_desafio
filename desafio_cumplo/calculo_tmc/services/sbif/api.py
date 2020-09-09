@@ -23,9 +23,9 @@ def getTasaMaximaConvencional(fecha , monto , plazo , is_reajustable , is_extran
 
     endpoint = '/'.join([ENDPOINT_ROOT,resource_year,resource_month])
 
-    response = requests.get(endpoint , params= PAYLOAD).text.encode('utf-8')
+    response = requests.get(endpoint , params= PAYLOAD)
 
-    response_json = json.loads(response)
+    response_json = response.json()
 
     if(is_extranjera == False):
 
