@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Calculadora TMC</title>
+    </head>
+    <body>
+        <h1>Selecciona las opciones e ingresa los datos , luego presionar obtener.</h1>
+        <hr>
+        <form action="{% url 'get_tmc' %}" method="post">
+        {% csrf_token %}
+        <label for="">Selecciona una fecha:</label>
+        <input type="date" name="fecha" id="fecha" min="2020-01-01" max="2020-09-01">
+        <label for="">Monto en uf :</label>
+        <input type="number" name="monto" id="monto" min=0 value=1>
+        <label for="">Plazo en meses :</label>
+        <input type="number" name="plazo" id="plazo" min=0 value=1>
+        <label for="">Reajustable </label>
+        <input type="checkbox" name="is_reajustable" id="is_reajustable">
+        <label for="">Moneda extranjera </label>
+        <input type="checkbox" name="is_extranjera" id="is_extranjera">
+        <button type="submit" value="Obtener">Obtener</button>
+        <hr>
+        </form>
+        <div id="results">
+
+ {% block content %}
+ {% if result %}
+     <p>
+    <h2>Detalles de busqueda para {{form.fecha}} con vigencia hasta {{result.Hasta}}:</h2>
+    <h3>Titulo : {{result.Titulo}}</h3>
+    <h3>Subtitulo : {{result.SubTitulo}}</h3>
+    <h3>Monto : {{form.monto}} uf - Plazo: {{form.plazo}} meses - Interes: {{result.Valor}}% </h3>
+    
+     </p>
+ {% else %}
+     <p></p>
+ {% endif %}
+ {% endblock %}
+        </div>
+    </body>
+</html>

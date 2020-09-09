@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<IndicadoresFinancieros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0" xsi:schemaLocation="http://api.sbif.cl http://api.sbif.cl/IndicadoresFinancieros-v1.0.xsd" xmlns="http://api.sbif.cl">
+    <UFs/>
+    <UTMs/>
+    <TABs/>
+    <IPCs/>
+    <Dolares/>
+    <Euros/>
+    <TMCs>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>32.1</Valor>
+            <Tipo>26</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo/>
+            <SubTitulo>Operaciones cuyo mecanismo de pago consista en la deducción de las respectivas cuotas directamente de la pensión del deudor</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>19.96</Valor>
+            <Tipo>43</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Superiores al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>6.66</Valor>
+            <Tipo>42</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>10.77</Valor>
+            <Tipo>41</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Superiores al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>4.22</Valor>
+            <Tipo>22</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>4.58</Valor>
+            <Tipo>24</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>Menores a un año</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>3.88</Valor>
+            <Tipo>21</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>5.63</Valor>
+            <Tipo>34</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>19.44</Valor>
+            <Tipo>35</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>26.96</Valor>
+            <Tipo>44</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>33.96</Valor>
+            <Tipo>45</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-01-15</Fecha>
+            <Hasta>2020-02-14</Hasta>
+            <Valor>6.81</Valor>
+            <Tipo>25</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>32.55</Valor>
+            <Tipo>26</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo/>
+            <SubTitulo>Operaciones cuyo mecanismo de pago consista en la deducción de las respectivas cuotas directamente de la pensión del deudor</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>20.82</Valor>
+            <Tipo>43</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Superiores al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>6.45</Valor>
+            <Tipo>42</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>9.36</Valor>
+            <Tipo>41</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Superiores al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>4.47</Valor>
+            <Tipo>22</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>6.12</Valor>
+            <Tipo>25</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>Menores a un año</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>3.91</Valor>
+            <Tipo>21</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>6.3</Valor>
+            <Tipo>34</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>20.73</Valor>
+            <Tipo>35</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>27.82</Valor>
+            <Tipo>44</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>34.82</Valor>
+            <Tipo>45</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-02-15</Fecha>
+            <Hasta>2020-03-13</Hasta>
+            <Valor>4.78</Valor>
+            <Tipo>24</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>9.51</Valor>
+            <Tipo>41</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Superiores al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>7.26</Valor>
+            <Tipo>42</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo/>
+            <SubTitulo>Operaciones cuyo mecanismo de pago consista en la deducción de las respectivas cuotas directamente de la pensión del deudor</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>21.12</Valor>
+            <Tipo>43</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>32.76</Valor>
+            <Tipo>26</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>5.41</Valor>
+            <Tipo>25</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>35.12</Valor>
+            <Tipo>45</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>28.12</Valor>
+            <Tipo>44</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>21.18</Valor>
+            <Tipo>35</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>6.63</Valor>
+            <Tipo>34</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>Menores a un año</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>3.86</Valor>
+            <Tipo>21</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>4.89</Valor>
+            <Tipo>24</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Superiores al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-03-14</Fecha>
+            <Hasta>2020-04-14</Hasta>
+            <Valor>4.43</Valor>
+            <Tipo>22</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Superiores al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>6.45</Valor>
+            <Tipo>42</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>8.67</Valor>
+            <Tipo>41</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Superiores al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>4.63</Valor>
+            <Tipo>22</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>5.06</Valor>
+            <Tipo>24</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>Menores a un año</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>3.85</Valor>
+            <Tipo>21</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo/>
+            <SubTitulo>Operaciones cuyo mecanismo de pago consista en la deducción de las respectivas cuotas directamente de la pensión del deudor</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>21.56</Valor>
+            <Tipo>43</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>21.84</Valor>
+            <Tipo>35</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>28.56</Valor>
+            <Tipo>44</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>35.56</Valor>
+            <Tipo>45</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>5.97</Valor>
+            <Tipo>25</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>33.96</Valor>
+            <Tipo>26</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-04-15</Fecha>
+            <Hasta>2020-05-14</Hasta>
+            <Valor>6.36</Valor>
+            <Tipo>34</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>6.42</Valor>
+            <Tipo>25</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo/>
+            <SubTitulo>Operaciones cuyo mecanismo de pago consista en la deducción de las respectivas cuotas directamente de la pensión del deudor</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>19.38</Valor>
+            <Tipo>43</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Superiores al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>7.44</Valor>
+            <Tipo>42</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>10.53</Valor>
+            <Tipo>41</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Superiores al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>4.9</Valor>
+            <Tipo>22</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>4.77</Valor>
+            <Tipo>24</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>Menores a un año</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>4.21</Valor>
+            <Tipo>21</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>5.77</Valor>
+            <Tipo>34</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>33.72</Valor>
+            <Tipo>26</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>33.38</Valor>
+            <Tipo>45</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>18.57</Valor>
+            <Tipo>35</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-05-15</Fecha>
+            <Hasta>2020-06-14</Hasta>
+            <Valor>26.38</Valor>
+            <Tipo>44</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>27.24</Valor>
+            <Tipo>44</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>34.24</Valor>
+            <Tipo>45</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>6.36</Valor>
+            <Tipo>25</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>35.28</Valor>
+            <Tipo>26</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Superiores al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>6.18</Valor>
+            <Tipo>42</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo/>
+            <SubTitulo>Operaciones cuyo mecanismo de pago consista en la deducción de las respectivas cuotas directamente de la pensión del deudor</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>20.24</Valor>
+            <Tipo>43</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>10.35</Valor>
+            <Tipo>41</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Superiores al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>4.87</Valor>
+            <Tipo>22</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>5.09</Valor>
+            <Tipo>24</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>Menores a un año</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>4.44</Valor>
+            <Tipo>21</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>5.88</Valor>
+            <Tipo>34</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento</SubTitulo>
+            <Fecha>2020-06-15</Fecha>
+            <Hasta>2020-07-14</Hasta>
+            <Valor>19.86</Valor>
+            <Tipo>35</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>Menores a un año</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>4.33</Valor>
+            <Tipo>21</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>5.15</Valor>
+            <Tipo>34</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>18.84</Valor>
+            <Tipo>35</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>26.56</Valor>
+            <Tipo>44</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>33.56</Valor>
+            <Tipo>45</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>5.19</Valor>
+            <Tipo>24</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>35.64</Valor>
+            <Tipo>26</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo/>
+            <SubTitulo>Operaciones cuyo mecanismo de pago consista en la deducción de las respectivas cuotas directamente de la pensión del deudor</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>19.56</Valor>
+            <Tipo>43</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Superiores al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>6.18</Valor>
+            <Tipo>42</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>9.81</Valor>
+            <Tipo>41</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Superiores al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>4.69</Valor>
+            <Tipo>22</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-07-15</Fecha>
+            <Hasta>2020-08-13</Hasta>
+            <Valor>6.42</Valor>
+            <Tipo>25</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>6.81</Valor>
+            <Tipo>25</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>33.8</Valor>
+            <Tipo>45</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 200 unidades de fomento y superiores al equivalente de 50 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>26.8</Valor>
+            <Tipo>44</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento y superiores al equivalente de 200 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>19.2</Valor>
+            <Tipo>35</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional 90 días o más</Titulo>
+            <SubTitulo>Superiores al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>4.97</Valor>
+            <Tipo>34</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>Menores a un año</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>4.4</Valor>
+            <Tipo>21</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Inferiores o iguales al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>4.69</Valor>
+            <Tipo>24</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo/>
+            <SubTitulo>Operaciones cuyo mecanismo de pago consista en la deducción de las respectivas cuotas directamente de la pensión del deudor</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>19.8</Valor>
+            <Tipo>43</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Superiores al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>5.69</Valor>
+            <Tipo>42</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones no reajustables en moneda nacional de menos de 90 días</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 5.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>35.04</Valor>
+            <Tipo>26</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones reajustables en moneda nacional</Titulo>
+            <SubTitulo>De un año o más. Superiores al equivalente de 2000 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>4.88</Valor>
+            <Tipo>22</Tipo>
+        </TMC>
+        <TMC>
+            <Titulo>Operaciones expresadas en moneda extranjera</Titulo>
+            <SubTitulo>Inferiores o iguales al equivalente de 2.000 unidades de fomento</SubTitulo>
+            <Fecha>2020-08-14</Fecha>
+            <Hasta/>
+            <Valor>9.45</Valor>
+            <Tipo>41</Tipo>
+        </TMC>
+    </TMCs>
+    <TIPs/>
+    <Perfiles/>
+</IndicadoresFinancieros>
