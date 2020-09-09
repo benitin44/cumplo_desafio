@@ -1,10 +1,12 @@
 import requests
 import json
 import datetime
+import os
+
 
 
 ENDPOINT_ROOT = 'https://api.sbif.cl/api-sbifv3/recursos_api/tmc'
-PAYLOAD = {'apikey': '9c84db4d447c80c74961a72245371245cb7ac15f', 'formato': 'json'}
+PAYLOAD = {'apikey': os.environ['APIKEY_SBIF'], 'formato': 'json'}
 
 
 def getTasaMaximaConvencional(fecha , monto , plazo , is_reajustable , is_extranjera):
