@@ -5,6 +5,7 @@ import os
 
 
 
+
 ENDPOINT_ROOT = 'https://api.sbif.cl/api-sbifv3/recursos_api/tmc'
 PAYLOAD = {'apikey': os.environ['APIKEY_SBIF'], 'formato': 'json'}
 
@@ -24,8 +25,19 @@ def getTasaMaximaConvencional(fecha , monto , plazo , is_reajustable , is_extran
     endpoint = '/'.join([ENDPOINT_ROOT,resource_year,resource_month])
 
 #    response = requests.get(endpoint , params= PAYLOAD).text.encode('utf8')
-    response_json = requests.get(endpoint , params= PAYLOAD)
+
  #   response_json = json.loads(response)
+    try:
+        response = requests.get(endpoint , params= PAYLOAD)
+        response.raise_for_status()
+        response_json = response.json()
+    except requests.exceptions.HTTPError as http_err:
+        print(f'Http error ocurred: {http_err}')
+        raise Exception(http_err)
+    except Exception as err:
+        print(f'Other error ocurred: {err}')
+        raise Exception(err)
+
 
     if(is_extranjera == False):
 
